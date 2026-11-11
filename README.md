@@ -4,6 +4,7 @@ A self-study path into AI/ML systems engineering, using free resources. About 10
 
 **Focus:** ML infrastructure — inference, GPU programming, and LLM systems — building on a C/systems programming background.
 
+- [Month 1 daily plan](plan/month1-daily.md): what to watch, do and check each day
 - [Study materials](materials.md): every resource, with links
 - [Notes](notes/): concept summaries per month
 - [Exercises](exercises/): problem sets and practice code
@@ -18,7 +19,7 @@ A self-study path into AI/ML systems engineering, using free resources. About 10
 - [ ] Week 3: CS229 (Autumn 2018) Lectures 1–4, start Problem Set 1
 - [ ] Week 4: CS229 Lectures 5–7, finish Problem Set 1 (focus on code, go light on proofs)
 
-Key concepts: [notes/month1-concepts.md](notes/month1-concepts.md)
+Day-by-day: [plan/month1-daily.md](plan/month1-daily.md) · Key concepts: [notes/month1-concepts.md](notes/month1-concepts.md)
 
 ### Month 2 (Dec): Neural nets + build from scratch
 
